@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-07-15T22:42:27.427992Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-07-15T22:42:17.846225Z",
+      "mimetype": null,
+      "name": "bw-interference.ipynb",
+      "path": "bw-interference.ipynb",
+      "size": 5263,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-07-15T22:42:27.428313Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-07-15T22:42:17.846486Z",
+      "mimetype": null,
+      "name": "complex-phsp-factor-masses.ipynb",
+      "path": "complex-phsp-factor-masses.ipynb",
+      "size": 7697,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-07-15T22:42:27.428313Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-07-15T22:42:27.428313Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
